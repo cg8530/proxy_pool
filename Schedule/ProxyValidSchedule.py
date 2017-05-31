@@ -10,6 +10,8 @@
                    2017/3/31: 验证useful_proxy_queue中的代理
 -------------------------------------------------
 """
+from DB.DbClient import DbClient
+
 __author__ = 'JHao'
 
 import sys
@@ -24,6 +26,7 @@ from Util.LogHandler import LogHandler
 class ProxyValidSchedule(ProxyManager):
     def __init__(self):
         ProxyManager.__init__(self)
+        self.db = DbClient()
         self.log = LogHandler('valid_schedule')
 
     def __validProxy(self):
@@ -32,7 +35,11 @@ class ProxyValidSchedule(ProxyManager):
         :return:
         """
         while True:
-            self.db.changeTable(self.useful_proxy_queue)
+            try:
+                self.db.changeTable(self.useful_proxy_queue)
+            except Exception,e:
+                print e
+                pass
             for each_proxy in self.db.getAll():
                 if isinstance(each_proxy, bytes):
                     each_proxy = each_proxy.decode('utf-8')

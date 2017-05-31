@@ -66,11 +66,9 @@ def refreshPool():
     pp.validProxy()
 
 
-def main(process_num=30):
+def main(process_num=100):
     p = ProxyRefreshSchedule()
 
-    # 获取新代理
-    p.refresh()
 
     # 检验新代理
     pl = []
@@ -84,11 +82,14 @@ def main(process_num=30):
     for num in range(process_num):
         pl[num].join()
 
+    # 获取新代理
+    p.refresh()
+
 
 def run():
     # main()
     sched = BlockingScheduler()
-    sched.add_job(main, 'interval', minutes=10)
+    sched.add_job(main, 'interval', minutes=1)
     sched.start()
 
 

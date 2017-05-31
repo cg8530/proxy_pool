@@ -26,10 +26,10 @@ def run():
     p_list = list()
     #p1 = Process(target=ProxyApiRun, name='ProxyApiRun')
     #p_list.append(p1)
-    #p2 = Process(target=ValidRun, name='ValidRun')
-    #p_list.append(p2)
-    p3 = Process(target=RefreshRun, name='RefreshRun')
-    p_list.append(p3)
+    p2 = Process(target=ValidRun, name='ValidRun')
+    p_list.append(p2)
+    #p3 = Process(target=RefreshRun, name='RefreshRun')
+    #p_list.append(p3)
 
     for p in p_list:
         p.start()

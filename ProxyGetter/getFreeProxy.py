@@ -50,7 +50,7 @@ class GetFreeProxy(object):
 
     @staticmethod
     @robustCrawl    #decoration print error if exception happen
-    def freeProxyFirst(page=10):
+    def freeProxyFirst(page=510):
         """
         抓取快代理IP http://www.kuaidaili.com/
         :param page: 翻页数
@@ -82,7 +82,7 @@ class GetFreeProxy(object):
 
     @staticmethod
     @robustCrawl
-    def freeProxyThird(days=1):
+    def freeProxyThird(days=5):
         """
         抓取有代理 http://www.youdaili.net/Daili/http/
         :param days:
@@ -107,6 +107,9 @@ class GetFreeProxy(object):
         """
         url_list = ['http://www.xicidaili.com/nn',  # 高匿
                     'http://www.xicidaili.com/nt',  # 透明
+                    'http://www.xicidaili.com/wn',  # 透明
+                    'http://www.xicidaili.com/wn/2',  # 透明
+                    'http://www.xicidaili.com/wn/3',  # 透明
                     ]
         for each_url in url_list:
             tree = getHtmlTree(each_url)
@@ -122,10 +125,13 @@ class GetFreeProxy(object):
         :return:
         """
         url = "http://www.goubanjia.com/free/gngn/index{page}.shtml"
-        for page in range(1, 10):
+        for page in range(1, 2):
             page_url = url.format(page=page)
             tree = getHtmlTree(page_url)
             proxy_list = tree.xpath('//td[@class="ip"]')
+            print proxy_list[0]
+            print len(proxy_list)
+
             for each_proxy in proxy_list:
                 yield ''.join(each_proxy.xpath('.//text()'))
 

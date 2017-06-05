@@ -10,6 +10,10 @@
                    2017/3/31: 验证useful_proxy_queue中的代理
 -------------------------------------------------
 """
+import random
+
+import time
+
 from DB.DbClient import DbClient
 
 __author__ = 'JHao'
@@ -35,6 +39,7 @@ class ProxyValidSchedule(ProxyManager):
         :return:
         """
         while True:
+            time.sleep(60*10*random.random())
             try:
                 self.db.changeTable(self.useful_proxy_queue)
             except Exception,e:

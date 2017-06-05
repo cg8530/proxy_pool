@@ -21,6 +21,11 @@ sys.path.append('../')
 
 from Manager.ProxyManager import ProxyManager
 
+
+sys.path.append('../')
+from Util.GetConfig import GetConfig
+
+
 app = Flask(__name__)
 
 
@@ -32,6 +37,10 @@ api_list = {
 }
 
 
+
+
+mini_proxy_num=GetConfig().mini_proxy_num
+
 @app.route('/')
 def index():
     return jsonify(api_list)
@@ -40,7 +49,14 @@ def index():
 @app.route('/get/')
 def get():
     proxy = ProxyManager().get()
-    return proxy
+    status = ProxyManager().get_status()
+
+    if int(status.pop('useful_proxy'))  < mini_proxy_num:
+        #print 'NULL'
+        return  u'NULL'
+    else:
+        #print proxy
+        return proxy
 
 
 @app.route('/refresh/')
@@ -71,6 +87,7 @@ def get_status():
 
 
 def run():
+    print mini_proxy_num
     app.run(host='0.0.0.0', port=5000)
 
 if __name__ == '__main__':

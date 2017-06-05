@@ -49,10 +49,16 @@ class GetConfig(object):
     def db_password(self):
         return self.config_file.get('DB', 'password')
 
+    @LazyProperty
+    def mini_proxy_num(self):
+        return int(self.config_file.get('PROXY', 'MiniProxyNum'))
+
 
     @LazyProperty
     def proxy_getter_functions(self):
         return self.config_file.options('ProxyGetter')
+
+
 
 
 if __name__ == '__main__':
@@ -63,3 +69,4 @@ if __name__ == '__main__':
     print(gg.db_port)
     print(gg.db_password)
     print(gg.proxy_getter_functions)
+    print(gg.mini_proxy_num)

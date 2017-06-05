@@ -55,7 +55,10 @@ class ProxyManager(object):
         :return:
         """
         self.db.changeTable(self.useful_proxy_queue)
+
+        total_raw_proxy = self.db.get_status()
         return self.db.get()
+        #return self.db.get()
         # return self.db.pop()
 
     def delete(self, proxy):

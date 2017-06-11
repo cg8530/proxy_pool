@@ -50,7 +50,7 @@ class GetFreeProxy(object):
 
     @staticmethod
     @robustCrawl    #decoration print error if exception happen
-    def freeProxyFirst(page=510):
+    def freeProxyFirst(page=10):
         """
         抓取快代理IP http://www.kuaidaili.com/
         :param page: 翻页数
@@ -67,7 +67,7 @@ class GetFreeProxy(object):
 
     @staticmethod
     @robustCrawl
-    def freeProxySecond(proxy_number=100):
+    def freeProxySecond(proxy_number=200):
         """
         抓取代理66 http://www.66ip.cn/
         :param proxy_number: 代理数量
@@ -77,8 +77,10 @@ class GetFreeProxy(object):
             proxy_number)
 
         html = getHTMLText(url, headers=HEADER)
+
         for proxy in re.findall(r'\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}:\d{1,5}', html):
-            yield proxy
+            if None != proxy:
+                yield proxy
 
     @staticmethod
     @robustCrawl
@@ -106,10 +108,32 @@ class GetFreeProxy(object):
         :return:
         """
         url_list = ['http://www.xicidaili.com/nn',  # 高匿
+                    'http://www.xicidaili.com/nn/1',  # 高匿
+                    'http://www.xicidaili.com/nn/2',  # 高匿
+                    'http://www.xicidaili.com/nn/3',  # 高匿
+                    'http://www.xicidaili.com/nn/3',  # 高匿
+                    'http://www.xicidaili.com/nn/4',  # 高匿
+                    'http://www.xicidaili.com/nn/5',  # 高匿
+                    'http://www.xicidaili.com/nn/6',  # 高匿
+                    'http://www.xicidaili.com/nn/7',  # 高匿
+                    'http://www.xicidaili.com/nn/8',  # 高匿
+                    'http://www.xicidaili.com/nn/9',  # 高匿
+                    'http://www.xicidaili.com/nn/10',  # 高匿
+                    'http://www.xicidaili.com/nn/11',  # 高匿
                     'http://www.xicidaili.com/nt',  # 透明
                     'http://www.xicidaili.com/wn',  # 透明
                     'http://www.xicidaili.com/wn/2',  # 透明
                     'http://www.xicidaili.com/wn/3',  # 透明
+                    'http://www.xicidaili.com/wn/4',  # 透明
+                    'http://www.xicidaili.com/wn/5',  # 透明
+                    'http://www.xicidaili.com/wn/6',  # 透明
+                    'http://www.xicidaili.com/wn/7',  # 透明
+                    'http://www.xicidaili.com/wn/8',  # 透明
+                    'http://www.xicidaili.com/wn/9',  # 透明
+                    'http://www.xicidaili.com/wn/10',  # 透明
+                    'http://www.xicidaili.com/wn/11',  # 透明
+                    'http://www.xicidaili.com/wn/12',  # 透明
+                    'http://www.xicidaili.com/wn/13',  # 透明
                     ]
         for each_url in url_list:
             tree = getHtmlTree(each_url)
@@ -125,7 +149,7 @@ class GetFreeProxy(object):
         :return:
         """
         url = "http://www.goubanjia.com/free/gngn/index{page}.shtml"
-        for page in range(1, 2):
+        for page in range(1, 20):
             page_url = url.format(page=page)
             tree = getHtmlTree(page_url)
             proxy_list = tree.xpath('//td[@class="ip"]')
@@ -137,17 +161,17 @@ class GetFreeProxy(object):
 
 if __name__ == '__main__':
     gg = GetFreeProxy()
-    # for e in gg.freeProxyFirst():
+    for e in gg.freeProxyFirst():
+         print e
+
+    #for e in gg.freeProxySecond():
     #     print e
 
-    # for e in gg.freeProxySecond():
-    #     print e
-
-    # for e in gg.freeProxyThird():
+    #for e in gg.freeProxyThird():
     #     print e
     #
-    # for e in gg.freeProxyFourth():
+    #for e in gg.freeProxyFourth():
     #     print e
 
-    for e in gg.freeProxyFifth():
-        print(e)
+    #for e in gg.freeProxyFifth():
+    #    print(e)

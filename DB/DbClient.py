@@ -74,14 +74,20 @@ class DbClient(object):
     def get(self, **kwargs):
         return self.client.get(**kwargs)
 
-    def put(self, value, **kwargs):
-        return self.client.put(value, **kwargs)
+    def put(self, key, **kwargs):
+        return self.client.put(key, **kwargs)
+
+    def getvalue(self, key, **kwargs):
+        return self.client.getvalue(key, **kwargs)
 
     def pop(self, **kwargs):
         return self.client.pop(**kwargs)
 
-    def delete(self, value, **kwargs):
-        return self.client.delete(value, **kwargs)
+    def inckey(self, key, value, **kwargs):
+        return self.client.inckey(key, value, **kwargs)
+
+    def delete(self, key, **kwargs):
+        return self.client.delete(key, **kwargs)
 
     def getAll(self):
         return self.client.getAll()

@@ -13,7 +13,7 @@
                    2017/04/26: raw_proxy_queue验证通过但useful_proxy_queue中已经存在的代理不在放入
 -------------------------------------------------
 """
-
+import random
 import sys
 import time
 import logging
@@ -66,7 +66,7 @@ def refreshPool():
     pp.validProxy()
 
 
-def main(process_num=100):
+def main(process_num=200):
     p = ProxyRefreshSchedule()
 
 
@@ -89,7 +89,10 @@ def main(process_num=100):
 def run():
     # main()
     sched = BlockingScheduler()
-    sched.add_job(main, 'interval', minutes=1)
+    sched.add_job(main,
+                  'interval',
+                  max_instances=500,
+                  minutes=1*random.random())
     sched.start()
 
 

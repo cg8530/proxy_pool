@@ -11,6 +11,8 @@
                    2016/12/4: 
 -------------------------------------------------
 """
+import time
+
 __author__ = 'JHao'
 
 import sys
@@ -50,8 +52,8 @@ def index():
 def get():
     proxy = ProxyManager().get()
     status = ProxyManager().get_status()
-
-    if int(status.pop('useful_proxy'))  < mini_proxy_num:
+    num = int(status.pop('useful_proxy'))
+    if  num < mini_proxy_num:
         #print 'NULL'
         return  u'NULL'
     else:

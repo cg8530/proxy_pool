@@ -17,6 +17,9 @@ from multiprocessing import Process
 
 from DB.DbClient import DbClient
 
+
+from settings import  LOG_LEVEL
+
 __author__ = 'JHao'
 
 import sys
@@ -46,17 +49,22 @@ class ProxyValidSchedule(ProxyManager):
                 if isinstance(each_proxy, bytes):
                     each_proxy = each_proxy.decode('utf-8')
 
-                if validUsefulProxy(each_proxy):
+                if validUsefulProxy(each_proxy) == True:
                     # 成功计数器加1
                     self.db.inckey(each_proxy, 1)
                     self.log.debug('validProxy_b: {} validation pass'.format(each_proxy))
                 else:
                     # 失败计数器减一
-                    self.db.inckey(each_proxy, -1)
+                    print "原有value  " + str(self.db.getvalue(each_proxy))
+                    if self.db.getvalue(each_proxy) >= 0:
+                        self.db.inckey(each_proxy, -1*int(self.db.getvalue(each_proxy)))
+                    else:
+                        self.db.inckey(each_proxy, -1)
                     # self.db.delete(each_proxy)
                     self.log.info('validProxy_b: {} validation fail'.format(each_proxy))
                 value = self.db.getvalue(each_proxy)
-                if None != value and int(value) < -1:
+                print  value
+                if None != value and int(value) < 0:
                     # 计数器小于-5删除该代理
                     print "删除" + each_proxy
                     self.db.delete(each_proxy)
@@ -73,7 +81,10 @@ def run():
     p_list.append(p1)
     p2 = Process(target=ProxyValidSchedule, name='ProxyValidSchedule')
     p_list.append(p2)
-
+    p3 = Process(target=ProxyValidSchedule, name='ProxyValidSchedule')
+    p_list.append(p3)
+    p4 = Process(target=ProxyValidSchedule, name='ProxyValidSchedule')
+    p_list.append(p4)
     for p in p_list:
         p.start()
     for p in p_list:

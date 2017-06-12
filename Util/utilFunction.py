@@ -82,14 +82,30 @@ def validUsefulProxy(proxy):
     :param proxy:
     :return:
     """
+    import requests
+    from lxml import etree
+
     proxies = {"https": "https://{proxy}".format(proxy=proxy)}
     try:
         # 超过20秒的代理就不要了
-        r = requests.get('https://book.douban.com/', proxies=proxies, timeout=1, verify=False)
+        r = requests.get('https://book.douban.com/subject/27044570/', proxies=proxies, timeout=3, verify=False)
+
         if r.status_code == 200:
 
+            tree = etree.HTML(r.content)
+            title = tree.xpath("/html/head/title/text()")
+            print  "title = " + str(len(title))
+            i=0
+            while i< len(title):
+                print title[i]
+                i += 1
+
             logger.debug('%s is ok' % proxy)
-            return True
+            if None != title and "豆瓣" in title[0]:
+                print title[0]
+                return  True
+            else:
+                return False
     except Exception as e:
         logger.info(e)
     return False

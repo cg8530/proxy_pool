@@ -1,0 +1,938 @@
+2017-06-11 19:14:04,708 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:04 2017 start validProxy_a
+2017-06-11 19:14:04,803 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:04 2017 start validProxy_a
+2017-06-11 19:14:04,913 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:04 2017 start validProxy_a
+2017-06-11 19:14:04,961 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 175.155.141.147:808 validation fail
+2017-06-11 19:14:04,961 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:04 2017 start validProxy_a
+2017-06-11 19:14:04,961 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.206.186.43:8081 validation fail
+2017-06-11 19:14:04,988 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:04 2017 start validProxy_a
+2017-06-11 19:14:05,032 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,060 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,060 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 125.47.173.136:8998 validation fail
+2017-06-11 19:14:05,064 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.62.251.27:80 validation fail
+2017-06-11 19:14:05,125 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,126 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,130 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,176 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,176 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,181 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,192 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,196 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,232 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,233 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 123.56.85.247:80 validation fail
+2017-06-11 19:14:05,263 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,283 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,292 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,310 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,312 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,340 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,357 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,381 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 61.188.24.95:808 validation fail
+2017-06-11 19:14:05,386 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,390 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 59.151.77.26:80 validation fail
+2017-06-11 19:14:05,404 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,408 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,408 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 36.250.90.28:8888 validation fail
+2017-06-11 19:14:05,437 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,436 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,461 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 101.71.86.8:80 validation fail
+2017-06-11 19:14:05,487 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,492 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,510 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.200.235.139:8080 validation fail
+2017-06-11 19:14:05,518 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,528 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,548 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,572 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,574 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,578 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,580 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 61.158.114.188:8080 validation fail
+2017-06-11 19:14:05,618 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.77.196.131:808 validation fail
+2017-06-11 19:14:05,620 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,630 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,644 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,657 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,676 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,711 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,717 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,727 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,727 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,740 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,754 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,778 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.11.83.169:80 validation fail
+2017-06-11 19:14:05,801 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,807 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 60.167.132.19:808 validation fail
+2017-06-11 19:14:05,814 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 60.178.172.175:8081 validation fail
+2017-06-11 19:14:05,824 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.77.25.30:8998 validation fail
+2017-06-11 19:14:05,827 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,831 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,843 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,884 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,883 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,894 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,889 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,910 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,943 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 60.169.5.32:8080 validation fail
+2017-06-11 19:14:05,956 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:05 2017 start validProxy_a
+2017-06-11 19:14:05,992 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 211.103.160.140:80 validation fail
+2017-06-11 19:14:06,002 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,008 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,019 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,041 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 49.73.238.95:8998 validation fail
+2017-06-11 19:14:06,040 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,063 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,075 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 220.160.10.175:808 validation fail
+2017-06-11 19:14:06,068 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,062 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,079 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,093 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.170.234.17:8081 validation fail
+2017-06-11 19:14:06,133 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,142 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,168 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,177 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,184 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,184 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,204 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 27.148.151.34:80 validation fail
+2017-06-11 19:14:06,208 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,218 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,231 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 43.226.162.20:80 validation fail
+2017-06-11 19:14:06,253 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,262 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,287 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,290 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,298 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,331 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,350 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,357 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,361 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,384 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,396 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,386 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,423 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,425 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 218.5.238.149:80 validation fail
+2017-06-11 19:14:06,414 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,413 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,432 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,413 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,435 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,443 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,473 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,509 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,522 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,510 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,528 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,546 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,562 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,568 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,572 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,575 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,572 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.69.39.7:808 validation fail
+2017-06-11 19:14:06,574 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,615 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,600 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,634 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,627 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,656 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,658 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,676 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,700 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,700 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,705 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,708 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,715 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 171.13.37.218:808 validation fail
+2017-06-11 19:14:06,741 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.54.84.112:8998 validation fail
+2017-06-11 19:14:06,753 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,755 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.121.168.205:808 validation fail
+2017-06-11 19:14:06,759 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,791 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,800 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 223.16.231.192:8080 validation fail
+2017-06-11 19:14:06,810 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,817 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,821 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.47.221.68:8081 validation fail
+2017-06-11 19:14:06,839 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,841 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,842 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,852 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,869 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,884 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,884 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,898 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,894 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,901 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,890 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,909 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,918 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,925 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,932 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,955 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,978 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,981 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,987 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,995 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:06,999 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:06 2017 start validProxy_a
+2017-06-11 19:14:07,004 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:06,994 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 222.95.21.177:808 validation fail
+2017-06-11 19:14:07,006 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 117.84.207.217:808 validation fail
+2017-06-11 19:14:07,027 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,030 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,031 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,033 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,038 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,041 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,051 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,047 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,079 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,090 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,093 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,072 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,101 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,095 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,105 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,114 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,115 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,099 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,132 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,132 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,143 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,147 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,152 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,158 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,143 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,206 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,207 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,194 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,200 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,235 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,237 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,252 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,248 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,259 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,256 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,266 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,266 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,265 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,270 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,271 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,267 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,277 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,276 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,287 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,290 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,300 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,299 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,331 ProxyRefreshSchedule.py[line:50] INFO Sun Jun 11 19:14:07 2017 start validProxy_a
+2017-06-11 19:14:07,343 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 60.167.22.8:808 validation fail
+2017-06-11 19:14:07,361 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.5.80.145:8080 validation fail
+2017-06-11 19:14:07,367 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.13.135.226:8081 validation fail
+2017-06-11 19:14:07,369 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.206.239.52:8081 validation fail
+2017-06-11 19:14:07,372 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 101.71.86.24:80 validation fail
+2017-06-11 19:14:07,678 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 43.226.162.23:80 validation fail
+2017-06-11 19:14:07,678 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:07 2017 validProxy_a complete
+2017-06-11 19:14:07,839 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 58.248.30.92:80 validation fail
+2017-06-11 19:14:07,839 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:07 2017 validProxy_a complete
+2017-06-11 19:14:07,840 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 61.188.24.78:808 validation fail
+2017-06-11 19:14:07,840 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:07 2017 validProxy_a complete
+2017-06-11 19:14:08,582 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 218.64.93.242:808 validation fail
+2017-06-11 19:14:08,582 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:08 2017 validProxy_a complete
+2017-06-11 19:14:09,907 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 153.36.11.186:808 validation fail
+2017-06-11 19:14:09,908 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:09 2017 validProxy_a complete
+2017-06-11 19:14:10,003 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 60.178.129.98:8081 validation fail
+2017-06-11 19:14:10,003 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.69.63.169:808 validation fail
+2017-06-11 19:14:10,003 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,004 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,011 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.46.99.33:8123 validation fail
+2017-06-11 19:14:10,012 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,100 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 119.7.78.189:808 validation fail
+2017-06-11 19:14:10,101 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,169 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 114.99.22.229:808 validation fail
+2017-06-11 19:14:10,170 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,227 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 119.5.1.48:808 validation fail
+2017-06-11 19:14:10,227 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,233 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 119.185.49.78:8998 validation fail
+2017-06-11 19:14:10,233 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,237 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 36.234.153.27:8998 validation fail
+2017-06-11 19:14:10,237 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,255 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 124.94.4.68:80 validation fail
+2017-06-11 19:14:10,255 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,258 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 163.125.18.90:8888 validation fail
+2017-06-11 19:14:10,259 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,332 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 153.34.195.118:8998 validation fail
+2017-06-11 19:14:10,332 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,360 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 218.64.92.164:808 validation fail
+2017-06-11 19:14:10,361 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,372 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 117.184.149.68:8080 validation fail
+2017-06-11 19:14:10,372 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,451 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 123.169.90.126:808 validation fail
+2017-06-11 19:14:10,451 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,453 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 210.22.180.94:80 validation fail
+2017-06-11 19:14:10,453 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 180.118.240.255:808 validation fail
+2017-06-11 19:14:10,454 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,454 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,456 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 39.84.192.114:8998 validation fail
+2017-06-11 19:14:10,457 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,458 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 60.167.20.202:808 validation fail
+2017-06-11 19:14:10,459 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,459 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 49.87.135.178:808 validation fail
+2017-06-11 19:14:10,461 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 218.161.47.231:3128 validation fail
+2017-06-11 19:14:10,461 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,461 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,462 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 36.249.29.117:808 validation fail
+2017-06-11 19:14:10,462 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,472 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.151.4.154:808 validation fail
+2017-06-11 19:14:10,473 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,478 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.58.232.167:808 validation fail
+2017-06-11 19:14:10,479 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,479 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 221.229.44.43:808 validation fail
+2017-06-11 19:14:10,480 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,481 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 123.55.185.219:808 validation fail
+2017-06-11 19:14:10,482 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,483 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 123.170.255.41:808 validation fail
+2017-06-11 19:14:10,483 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,497 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 180.110.5.100:808 validation fail
+2017-06-11 19:14:10,498 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 110.189.222.72:808 validation fail
+2017-06-11 19:14:10,498 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,499 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,499 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 60.178.3.114:8081 validation fail
+2017-06-11 19:14:10,500 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 221.229.18.247:808 validation fail
+2017-06-11 19:14:10,501 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 60.167.22.202:808 validation fail
+2017-06-11 19:14:10,500 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,501 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,501 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 222.94.196.133:808 validation fail
+2017-06-11 19:14:10,502 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 222.94.145.92:808 validation fail
+2017-06-11 19:14:10,502 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,502 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,502 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,510 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 120.84.100.69:808 validation fail
+2017-06-11 19:14:10,510 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,512 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 140.224.76.198:808 validation fail
+2017-06-11 19:14:10,512 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 121.206.32.247:808 validation fail
+2017-06-11 19:14:10,512 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,513 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,549 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.161.120.54:8081 validation fail
+2017-06-11 19:14:10,550 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,550 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 123.55.185.139:808 validation fail
+2017-06-11 19:14:10,550 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,555 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.206.239.56:8081 validation fail
+2017-06-11 19:14:10,555 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,570 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.76.131.146:808 validation fail
+2017-06-11 19:14:10,570 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,573 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.206.239.22:8081 validation fail
+2017-06-11 19:14:10,573 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,606 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 61.54.121.45:8080 validation fail
+2017-06-11 19:14:10,607 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,607 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.5.80.91:8080 validation fail
+2017-06-11 19:14:10,608 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,610 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 119.7.74.184:808 validation fail
+2017-06-11 19:14:10,610 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,633 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 118.123.245.206:80 validation fail
+2017-06-11 19:14:10,633 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,633 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 1.82.132.85:8080 validation fail
+2017-06-11 19:14:10,634 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,650 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 114.230.96.229:808 validation fail
+2017-06-11 19:14:10,651 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,652 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 61.54.219.34:8080 validation fail
+2017-06-11 19:14:10,652 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,671 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.13.135.225:8081 validation fail
+2017-06-11 19:14:10,672 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,672 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 180.97.61.79:80 validation fail
+2017-06-11 19:14:10,672 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,686 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.20.250.122:8081 validation fail
+2017-06-11 19:14:10,686 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,687 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 120.26.51.101:8118 validation fail
+2017-06-11 19:14:10,687 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,707 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.8.22.206:80 validation fail
+2017-06-11 19:14:10,708 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,711 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 218.92.227.82:8080 validation fail
+2017-06-11 19:14:10,712 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.47.220.50:8081 validation fail
+2017-06-11 19:14:10,712 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,713 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.178.233.32:8081 validation fail
+2017-06-11 19:14:10,713 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,714 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,714 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 122.228.197.2:80 validation fail
+2017-06-11 19:14:10,715 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.62.251.46:8080 validation fail
+2017-06-11 19:14:10,715 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,715 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,716 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.5.80.90:8080 validation fail
+2017-06-11 19:14:10,717 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,745 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 183.224.12.74:80 validation fail
+2017-06-11 19:14:10,745 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,747 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.8.9.204:8081 validation fail
+2017-06-11 19:14:10,748 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,748 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 101.71.86.12:80 validation fail
+2017-06-11 19:14:10,748 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,761 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 60.176.44.234:8998 validation fail
+2017-06-11 19:14:10,761 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,782 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.77.160.120:8081 validation fail
+2017-06-11 19:14:10,783 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,783 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 121.31.23.35:80 validation fail
+2017-06-11 19:14:10,784 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 117.143.109.162:80 validation fail
+2017-06-11 19:14:10,784 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,784 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,785 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.23.10.41:80 validation fail
+2017-06-11 19:14:10,785 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,797 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 117.143.109.162:80 validation fail
+2017-06-11 19:14:10,798 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,798 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 61.143.222.45:80 validation fail
+2017-06-11 19:14:10,798 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,803 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.200.235.138:8080 validation fail
+2017-06-11 19:14:10,803 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,819 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 183.245.146.149:80 validation fail
+2017-06-11 19:14:10,820 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,820 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 218.76.105.55:8088 validation fail
+2017-06-11 19:14:10,821 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,843 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 218.76.105.55:8088 validation fail
+2017-06-11 19:14:10,843 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,859 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.213.244.105:808 validation fail
+2017-06-11 19:14:10,859 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 121.41.175.199:80 validation fail
+2017-06-11 19:14:10,860 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,860 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,880 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 117.143.109.134:80 validation fail
+2017-06-11 19:14:10,880 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,894 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 120.132.71.212:80 validation fail
+2017-06-11 19:14:10,894 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,904 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.200.235.138:8080 validation fail
+2017-06-11 19:14:10,905 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,913 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.220.151.205:808 validation fail
+2017-06-11 19:14:10,913 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,916 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.23.10.175:80 validation fail
+2017-06-11 19:14:10,916 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,920 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 101.71.86.25:80 validation fail
+2017-06-11 19:14:10,920 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,952 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 60.178.85.40:808 validation fail
+2017-06-11 19:14:10,952 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:10,968 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 221.192.134.92:8081 validation fail
+2017-06-11 19:14:10,968 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:10 2017 validProxy_a complete
+2017-06-11 19:14:11,010 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 116.53.165.25:8998 validation fail
+2017-06-11 19:14:11,010 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:11 2017 validProxy_a complete
+2017-06-11 19:14:11,081 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.220.7.146:808 validation fail
+2017-06-11 19:14:11,104 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 114.230.233.143:808 validation fail
+2017-06-11 19:14:11,112 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.220.145.188:808 validation fail
+2017-06-11 19:14:11,127 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 114.40.25.33:3128 validation fail
+2017-06-11 19:14:11,135 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 222.94.151.158:808 validation fail
+2017-06-11 19:14:11,137 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 110.73.55.165:8123 validation fail
+2017-06-11 19:14:11,146 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 42.59.111.148:808 validation fail
+2017-06-11 19:14:11,169 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 183.151.43.119:808 validation fail
+2017-06-11 19:14:11,184 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 125.89.120.232:808 validation fail
+2017-06-11 19:14:11,200 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 221.224.30.118:80 validation fail
+2017-06-11 19:14:11,248 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 210.75.19.114:80 validation fail
+2017-06-11 19:14:11,261 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 119.5.37.127:808 validation fail
+2017-06-11 19:14:11,286 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 222.161.3.163:9797 validation fail
+2017-06-11 19:14:11,324 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 210.72.95.134:80 validation fail
+2017-06-11 19:14:11,326 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.58.234.46:808 validation fail
+2017-06-11 19:14:11,325 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 121.232.146.6:9000 validation fail
+2017-06-11 19:14:11,378 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 114.99.22.30:808 validation fail
+2017-06-11 19:14:11,437 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 180.118.247.199:808 validation fail
+2017-06-11 19:14:11,491 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 110.86.97.109:808 validation fail
+2017-06-11 19:14:11,549 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 211.75.64.156:80 validation fail
+2017-06-11 19:14:11,617 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 222.95.21.75:808 validation fail
+2017-06-11 19:14:11,642 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 58.210.51.22:80 validation fail
+2017-06-11 19:14:11,673 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 123.146.236.147:53281 validation fail
+2017-06-11 19:14:11,719 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.69.38.41:808 validation fail
+2017-06-11 19:14:11,725 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 222.94.148.12:808 validation fail
+2017-06-11 19:14:11,732 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.58.234.57:808 validation fail
+2017-06-11 19:14:11,742 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 121.234.213.69:808 validation fail
+2017-06-11 19:14:11,742 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 123.55.84.45:808 validation fail
+2017-06-11 19:14:11,749 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 117.43.41.209:808 validation fail
+2017-06-11 19:14:11,749 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 103.232.66.246:8080 validation fail
+2017-06-11 19:14:11,757 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 110.17.109.69:8998 validation fail
+2017-06-11 19:14:11,767 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 222.249.233.238:9000 validation fail
+2017-06-11 19:14:11,782 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 222.85.39.142:36763 validation fail
+2017-06-11 19:14:11,786 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.107.112.210:8101 validation fail
+2017-06-11 19:14:11,804 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 124.72.216.121:808 validation fail
+2017-06-11 19:14:11,814 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 222.94.146.45:808 validation fail
+2017-06-11 19:14:11,824 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 202.101.111.132:8998 validation fail
+2017-06-11 19:14:11,914 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 121.231.155.253:808 validation fail
+2017-06-11 19:14:11,915 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 122.112.251.66:8080 validation fail
+2017-06-11 19:14:11,925 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 122.114.28.20:3128 validation fail
+2017-06-11 19:14:11,958 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 183.245.209.244:8998 validation fail
+2017-06-11 19:14:11,983 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 124.161.16.90:8080 validation fail
+2017-06-11 19:14:11,992 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.69.63.103:808 validation fail
+2017-06-11 19:14:12,001 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.212.62.141:808 validation fail
+2017-06-11 19:14:12,017 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 125.89.120.3:808 validation fail
+2017-06-11 19:14:12,044 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 106.3.240.209:8080 validation fail
+2017-06-11 19:14:12,082 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 1.183.219.34:8080 validation fail
+2017-06-11 19:14:12,088 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 171.88.143.94:8081 validation fail
+2017-06-11 19:14:12,144 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 59.62.166.242:808 validation fail
+2017-06-11 19:14:12,161 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 119.57.105.241:8080 validation fail
+2017-06-11 19:14:12,171 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 218.73.139.84:808 validation fail
+2017-06-11 19:14:12,180 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 36.249.31.50:808 validation fail
+2017-06-11 19:14:12,192 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.159.208.21:80 validation fail
+2017-06-11 19:14:12,204 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 117.94.202.221:808 validation fail
+2017-06-11 19:14:12,220 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 122.241.73.132:808 validation fail
+2017-06-11 19:14:12,224 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 119.5.0.110:808 validation fail
+2017-06-11 19:14:12,231 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 211.22.205.115:8080 validation fail
+2017-06-11 19:14:12,231 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 122.241.73.132:808 validation fail
+2017-06-11 19:14:12,232 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 114.230.235.236:808 validation fail
+2017-06-11 19:14:12,244 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 222.94.145.233:808 validation fail
+2017-06-11 19:14:12,248 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 218.104.148.157:8080 validation fail
+2017-06-11 19:14:12,248 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 1.199.194.139:808 validation fail
+2017-06-11 19:14:12,249 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 180.121.134.25:808 validation fail
+2017-06-11 19:14:12,256 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.69.176.231:808 validation fail
+2017-06-11 19:14:12,285 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 1.199.194.139:808 validation fail
+2017-06-11 19:14:12,318 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 175.155.24.118:808 validation fail
+2017-06-11 19:14:12,332 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 221.229.45.141:808 validation fail
+2017-06-11 19:14:12,343 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 182.87.243.156:808 validation fail
+2017-06-11 19:14:12,344 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.220.146.106:808 validation fail
+2017-06-11 19:14:12,351 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.151.3.124:808 validation fail
+2017-06-11 19:14:12,351 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 180.118.241.75:808 validation fail
+2017-06-11 19:14:12,353 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 121.40.108.76:80 validation fail
+2017-06-11 19:14:12,357 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 121.232.185.28:44296 validation fail
+2017-06-11 19:14:12,364 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 119.6.87.191:8081 validation fail
+2017-06-11 19:14:12,365 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.124.84.39:808 validation fail
+2017-06-11 19:14:12,365 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 119.5.0.75:808 validation fail
+2017-06-11 19:14:12,366 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.220.150.76:808 validation fail
+2017-06-11 19:14:12,371 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 175.155.243.22:808 validation fail
+2017-06-11 19:14:12,373 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 211.79.206.250:80 validation fail
+2017-06-11 19:14:12,376 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 175.155.245.184:808 validation fail
+2017-06-11 19:14:12,380 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.47.220.67:8081 validation fail
+2017-06-11 19:14:12,438 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 211.140.151.220:80 validation fail
+2017-06-11 19:14:12,438 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 210.209.89.77:3128 validation fail
+2017-06-11 19:14:12,514 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 210.22.108.90:80 validation fail
+2017-06-11 19:14:12,514 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:12 2017 validProxy_a complete
+2017-06-11 19:14:12,515 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 58.40.19.46:80 validation fail
+2017-06-11 19:14:12,516 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:12 2017 validProxy_a complete
+2017-06-11 19:14:12,886 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 176.237.190.170:8080 validation fail
+2017-06-11 19:14:12,886 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:12 2017 validProxy_a complete
+2017-06-11 19:14:13,317 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 121.30.197.38:8080 validation fail
+2017-06-11 19:14:13,318 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:13 2017 validProxy_a complete
+2017-06-11 19:14:13,402 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.39.143.224:8081 validation fail
+2017-06-11 19:14:13,402 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:13 2017 validProxy_a complete
+2017-06-11 19:14:13,545 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 60.178.172.186:8081 validation fail
+2017-06-11 19:14:13,545 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:13 2017 validProxy_a complete
+2017-06-11 19:14:13,633 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 58.62.207.53:9999 validation fail
+2017-06-11 19:14:13,634 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:13 2017 validProxy_a complete
+2017-06-11 19:14:13,641 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 185.6.83.161:8081 validation fail
+2017-06-11 19:14:13,641 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:13 2017 validProxy_a complete
+2017-06-11 19:14:13,738 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 211.151.144.162:80 validation fail
+2017-06-11 19:14:13,738 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:13 2017 validProxy_a complete
+2017-06-11 19:14:13,816 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 203.130.209.101:8080 validation fail
+2017-06-11 19:14:13,816 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:13 2017 validProxy_a complete
+2017-06-11 19:14:13,847 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 125.31.19.26:80 validation fail
+2017-06-11 19:14:13,847 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:13 2017 validProxy_a complete
+2017-06-11 19:14:14,037 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 182.87.242.166:808 validation fail
+2017-06-11 19:14:14,038 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:14 2017 validProxy_a complete
+2017-06-11 19:14:14,090 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 118.193.142.252:3128 validation fail
+2017-06-11 19:14:14,090 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:14 2017 validProxy_a complete
+2017-06-11 19:14:14,113 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 223.153.139.178:53281 validation fail
+2017-06-11 19:14:14,114 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:14 2017 validProxy_a complete
+2017-06-11 19:14:14,237 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 140.224.76.63:808 validation fail
+2017-06-11 19:14:14,237 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 218.6.145.11:9797 validation fail
+2017-06-11 19:14:14,237 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:14 2017 validProxy_a complete
+2017-06-11 19:14:14,238 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:14 2017 validProxy_a complete
+2017-06-11 19:14:14,986 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 106.0.6.165:8081 validation fail
+2017-06-11 19:14:15,371 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 218.67.126.15:3128 validation fail
+2017-06-11 19:14:15,458 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 121.40.174.68:80 validation fail
+2017-06-11 19:14:15,484 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 121.232.145.47:9000 validation fail
+2017-06-11 19:14:15,497 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 1.173.51.148:3128 validation fail
+2017-06-11 19:14:15,517 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.20.250.122:8081 validation fail
+2017-06-11 19:14:15,525 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.28.78.68:3128 validation fail
+2017-06-11 19:14:15,529 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 124.74.138.154:80 validation fail
+2017-06-11 19:14:15,592 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 128.199.248.106:8080 validation fail
+2017-06-11 19:14:15,617 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 180.125.62.70:808 validation fail
+2017-06-11 19:14:15,844 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 175.180.200.46:8080 validation fail
+2017-06-11 19:14:15,896 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 210.75.19.114:80 validation fail
+2017-06-11 19:14:15,991 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 46.216.38.27:8080 validation fail
+2017-06-11 19:14:16,089 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 175.180.200.46:8080 validation fail
+2017-06-11 19:14:16,095 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 106.0.6.165:8081 validation fail
+2017-06-11 19:14:16,138 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 61.54.219.43:8080 validation fail
+2017-06-11 19:14:16,156 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 103.12.246.13:8080 validation fail
+2017-06-11 19:14:16,181 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 218.92.220.64:8080 validation fail
+2017-06-11 19:14:16,209 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 187.69.133.121:8080 validation fail
+2017-06-11 19:14:16,255 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 1.179.185.253:8080 validation fail
+2017-06-11 19:14:16,261 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 121.232.146.253:9000 validation fail
+2017-06-11 19:14:16,295 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 138.59.217.170:3128 validation fail
+2017-06-11 19:14:16,342 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 112.66.58.120:808 validation fail
+2017-06-11 19:14:16,442 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 208.47.176.252:80 validation fail
+2017-06-11 19:14:16,540 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.202.178.229:808 validation fail
+2017-06-11 19:14:16,541 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 101.71.86.12:80 validation fail
+2017-06-11 19:14:16,635 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 183.27.193.95:808 validation fail
+2017-06-11 19:14:16,672 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 190.90.213.254:8080 validation fail
+2017-06-11 19:14:16,724 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 218.86.111.41:8088 validation fail
+2017-06-11 19:14:16,739 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 220.143.164.208:3128 validation fail
+2017-06-11 19:14:16,756 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 36.37.134.18:80 validation fail
+2017-06-11 19:14:16,766 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 91.227.77.26:1234 validation fail
+2017-06-11 19:14:16,766 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 203.189.89.49:80 validation fail
+2017-06-11 19:14:16,780 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 125.92.35.247:808 validation fail
+2017-06-11 19:14:16,794 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 180.118.241.92:808 validation fail
+2017-06-11 19:14:16,840 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 180.183.190.224:8080 validation fail
+2017-06-11 19:14:16,933 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 177.57.223.152:8080 validation fail
+2017-06-11 19:14:17,021 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 91.202.164.22:8000 validation fail
+2017-06-11 19:14:17,049 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 210.4.75.98:53281 validation fail
+2017-06-11 19:14:17,166 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 36.250.90.28:8888 validation fail
+2017-06-11 19:14:17,219 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 202.97.140.147:81 validation fail
+2017-06-11 19:14:17,230 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 187.69.113.175:8080 validation fail
+2017-06-11 19:14:17,244 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 91.194.247.161:8085 validation fail
+2017-06-11 19:14:17,251 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 134.35.230.161:8080 validation fail
+2017-06-11 19:14:17,262 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 177.128.193.201:8089 validation fail
+2017-06-11 19:14:17,316 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 114.80.143.158:8080 validation fail
+2017-06-11 19:14:17,336 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 202.62.37.150:8080 validation fail
+2017-06-11 19:14:17,355 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 188.165.184.80:24631 validation fail
+2017-06-11 19:14:17,370 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 175.111.183.183:53281 validation fail
+2017-06-11 19:14:17,378 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 116.228.236.219:8080 validation fail
+2017-06-11 19:14:17,384 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 138.0.88.28:8080 validation fail
+2017-06-11 19:14:17,413 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 95.153.240.96:8081 validation fail
+2017-06-11 19:14:17,520 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 191.199.244.74:8080 validation fail
+2017-06-11 19:14:17,520 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 210.16.102.124:80 validation fail
+2017-06-11 19:14:17,544 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 39.73.131.152:8888 validation fail
+2017-06-11 19:14:17,545 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 185.23.64.100:3130 validation fail
+2017-06-11 19:14:17,636 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 180.118.242.62:808 validation fail
+2017-06-11 19:14:17,643 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 121.30.197.38:8080 validation fail
+2017-06-11 19:14:17,660 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 118.123.245.206:80 validation fail
+2017-06-11 19:14:17,701 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.200.159.155:9999 validation fail
+2017-06-11 19:14:17,702 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 123.169.90.126:808 validation fail
+2017-06-11 19:14:17,703 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 221.229.44.43:808 validation fail
+2017-06-11 19:14:17,713 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 123.57.51.221:80 validation fail
+2017-06-11 19:14:17,810 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 61.132.238.96:9999 validation fail
+2017-06-11 19:14:17,810 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 183.131.215.107:8080 validation fail
+2017-06-11 19:14:17,811 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.23.10.41:80 validation fail
+2017-06-11 19:14:17,870 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 180.97.61.83:80 validation fail
+2017-06-11 19:14:17,876 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 61.158.114.188:8080 validation fail
+2017-06-11 19:14:17,931 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 210.22.108.90:80 validation fail
+2017-06-11 19:14:17,970 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 117.143.109.134:80 validation fail
+2017-06-11 19:14:18,054 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 176.237.93.108:8080 validation fail
+2017-06-11 19:14:18,181 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 183.222.102.107:8080 validation fail
+2017-06-11 19:14:18,242 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 59.46.64.50:80 validation fail
+2017-06-11 19:14:18,392 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 177.86.68.95:3128 validation fail
+2017-06-11 19:14:18,417 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 122.154.65.22:8080 validation fail
+2017-06-11 19:14:18,429 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 38.123.204.157:8080 validation fail
+2017-06-11 19:14:18,445 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 123.55.187.2:808 validation fail
+2017-06-11 19:14:18,493 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 200.44.218.176:8080 validation fail
+2017-06-11 19:14:18,510 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 183.88.212.184:8080 validation fail
+2017-06-11 19:14:18,619 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 202.149.91.66:8080 validation fail
+2017-06-11 19:14:18,677 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 23.88.246.18:8088 validation fail
+2017-06-11 19:14:18,799 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.47.221.68:8081 validation fail
+2017-06-11 19:14:18,903 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 211.22.161.48:80 validation fail
+2017-06-11 19:14:18,932 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 200.229.193.106:8080 validation fail
+2017-06-11 19:14:18,938 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 103.10.169.98:3128 validation fail
+2017-06-11 19:14:18,960 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 196.61.10.193:8080 validation fail
+2017-06-11 19:14:19,036 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 196.44.185.109:8080 validation fail
+2017-06-11 19:14:19,184 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 181.143.73.34:53281 validation fail
+2017-06-11 19:14:19,314 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 192.95.54.117:8799 validation fail
+2017-06-11 19:14:19,329 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 36.67.142.15:53281 validation fail
+2017-06-11 19:14:19,359 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 197.161.137.35:8080 validation fail
+2017-06-11 19:14:19,424 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 101.75.12.204:8998 validation fail
+2017-06-11 19:14:19,443 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 117.143.109.145:80 validation fail
+2017-06-11 19:14:19,494 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 106.0.6.165:8081 validation fail
+2017-06-11 19:14:19,585 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 211.75.64.156:80 validation fail
+2017-06-11 19:14:19,646 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 177.114.228.146:8080 validation fail
+2017-06-11 19:14:19,692 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 178.49.140.254:8080 validation fail
+2017-06-11 19:14:19,711 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.186.175.253:53281 validation fail
+2017-06-11 19:14:19,745 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 89.36.213.174:1189 validation fail
+2017-06-11 19:14:19,749 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 117.143.109.163:80 validation fail
+2017-06-11 19:14:19,753 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.23.10.25:80 validation fail
+2017-06-11 19:14:19,821 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 119.7.225.149:808 validation fail
+2017-06-11 19:14:19,904 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 181.143.211.202:53281 validation fail
+2017-06-11 19:14:19,948 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 178.60.28.98:9999 validation fail
+2017-06-11 19:14:19,975 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 121.226.170.117:808 validation fail
+2017-06-11 19:14:20,010 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 201.23.195.34:8080 validation fail
+2017-06-11 19:14:20,032 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 221.3.64.75:8888 validation fail
+2017-06-11 19:14:20,257 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 95.0.178.4:8080 validation fail
+2017-06-11 19:14:20,331 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.23.10.41:80 validation fail
+2017-06-11 19:14:20,469 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 186.227.192.116:8080 validation fail
+2017-06-11 19:14:20,516 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 91.134.213.168:3138 validation fail
+2017-06-11 19:14:20,532 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.58.235.53:808 validation fail
+2017-06-11 19:14:20,606 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 49.86.62.93:808 validation fail
+2017-06-11 19:14:20,629 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 114.216.118.170:808 validation fail
+2017-06-11 19:14:20,634 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 200.16.208.187:3128 validation fail
+2017-06-11 19:14:20,745 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 37.32.26.68:8080 validation fail
+2017-06-11 19:14:20,817 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 222.128.13.94:8081 validation fail
+2017-06-11 19:14:20,876 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 124.238.236.109:80 validation fail
+2017-06-11 19:14:20,946 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 27.148.151.34:80 validation fail
+2017-06-11 19:14:20,953 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 192.129.196.77:9001 validation fail
+2017-06-11 19:14:20,964 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.47.220.67:8081 validation fail
+2017-06-11 19:14:21,005 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 91.194.246.193:8085 validation fail
+2017-06-11 19:14:21,085 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 180.118.240.255:808 validation fail
+2017-06-11 19:14:21,092 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 114.80.143.158:8080 validation fail
+2017-06-11 19:14:21,094 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 201.249.60.78:8080 validation fail
+2017-06-11 19:14:21,110 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.220.151.205:808 validation fail
+2017-06-11 19:14:21,110 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.206.239.52:8081 validation fail
+2017-06-11 19:14:21,123 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.220.0.191:808 validation fail
+2017-06-11 19:14:21,220 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 97.72.159.92:87 validation fail
+2017-06-11 19:14:21,273 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 94.177.242.39:1189 validation fail
+2017-06-11 19:14:21,274 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 114.230.120.48:808 validation fail
+2017-06-11 19:14:21,274 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 49.73.238.95:8998 validation fail
+2017-06-11 19:14:21,277 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 36.239.130.15:3128 validation fail
+2017-06-11 19:14:21,356 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 121.10.1.179:8080 validation fail
+2017-06-11 19:14:21,452 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 182.87.240.9:808 validation fail
+2017-06-11 19:14:21,497 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.121.168.205:808 validation fail
+2017-06-11 19:14:21,515 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 61.143.222.45:80 validation fail
+2017-06-11 19:14:21,554 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 94.177.236.120:1189 validation fail
+2017-06-11 19:14:21,562 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 114.239.144.119:808 validation fail
+2017-06-11 19:14:21,567 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 190.38.82.242:8080 validation fail
+2017-06-11 19:14:21,618 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 94.177.239.188:1189 validation fail
+2017-06-11 19:14:21,647 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 60.176.79.236:808 validation fail
+2017-06-11 19:14:21,670 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 60.184.173.76:808 validation fail
+2017-06-11 19:14:21,685 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 182.87.243.156:808 validation fail
+2017-06-11 19:14:21,696 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 46.35.87.154:8080 validation fail
+2017-06-11 19:14:21,696 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 125.47.173.136:8998 validation fail
+2017-06-11 19:14:21,736 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 139.201.243.117:808 validation fail
+2017-06-11 19:14:21,748 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 109.248.236.59:8080 validation fail
+2017-06-11 19:14:21,755 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 124.65.90.114:80 validation fail
+2017-06-11 19:14:21,768 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 119.6.87.191:8081 validation fail
+2017-06-11 19:14:21,864 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 114.239.146.45:808 validation fail
+2017-06-11 19:14:21,945 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 58.251.132.27:80 validation fail
+2017-06-11 19:14:21,951 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 140.224.76.198:808 validation fail
+2017-06-11 19:14:21,960 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 43.226.162.20:80 validation fail
+2017-06-11 19:14:22,010 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 222.161.3.163:9797 validation fail
+2017-06-11 19:14:22,013 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.178.233.32:8081 validation fail
+2017-06-11 19:14:22,027 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.206.186.43:8081 validation fail
+2017-06-11 19:14:22,062 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 59.62.166.242:808 validation fail
+2017-06-11 19:14:22,081 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 88.81.117.148:53281 validation fail
+2017-06-11 19:14:22,176 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 125.67.239.175:8080 validation fail
+2017-06-11 19:14:22,242 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 67.143.6.218:87 validation fail
+2017-06-11 19:14:22,327 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 119.4.13.85:808 validation fail
+2017-06-11 19:14:22,345 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.28.78.68:3128 validation fail
+2017-06-11 19:14:22,348 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 124.94.250.116:8080 validation fail
+2017-06-11 19:14:22,360 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 61.54.219.43:8080 validation fail
+2017-06-11 19:14:22,379 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.39.143.224:8081 validation fail
+2017-06-11 19:14:22,397 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 125.89.120.3:808 validation fail
+2017-06-11 19:14:22,494 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 128.71.39.30:8081 validation fail
+2017-06-11 19:14:22,526 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 60.167.22.8:808 validation fail
+2017-06-11 19:14:22,636 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 186.68.93.46:53281 validation fail
+2017-06-11 19:14:22,640 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 49.205.204.128:8080 validation fail
+2017-06-11 19:14:22,642 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 185.142.235.22:8080 validation fail
+2017-06-11 19:14:22,727 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 114.99.14.77:808 validation fail
+2017-06-11 19:14:22,832 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 85.105.87.11:8080 validation fail
+2017-06-11 19:14:22,837 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 175.155.243.22:808 validation fail
+2017-06-11 19:14:22,838 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 119.39.68.234:808 validation fail
+2017-06-11 19:14:22,843 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.69.38.41:808 validation fail
+2017-06-11 19:14:22,867 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 61.136.163.245:3128 validation fail
+2017-06-11 19:14:22,889 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 119.185.49.78:8998 validation fail
+2017-06-11 19:14:22,930 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 122.154.75.49:8080 validation fail
+2017-06-11 19:14:22,933 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 183.26.180.8:808 validation fail
+2017-06-11 19:14:22,974 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.62.243.64:8080 validation fail
+2017-06-11 19:14:22,978 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 60.183.215.44:808 validation fail
+2017-06-11 19:14:22,983 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.220.150.76:808 validation fail
+2017-06-11 19:14:23,036 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 173.68.185.170:80 validation fail
+2017-06-11 19:14:23,042 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 212.237.6.245:3128 validation fail
+2017-06-11 19:14:23,079 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 117.143.109.158:80 validation fail
+2017-06-11 19:14:23,083 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 221.224.30.118:80 validation fail
+2017-06-11 19:14:23,092 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 183.88.217.201:8080 validation fail
+2017-06-11 19:14:23,144 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 183.78.180.113:808 validation fail
+2017-06-11 19:14:23,149 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.54.84.112:8998 validation fail
+2017-06-11 19:14:23,191 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 124.65.246.50:80 validation fail
+2017-06-11 19:14:23,194 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 180.110.5.135:808 validation fail
+2017-06-11 19:14:23,228 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 163.172.11.141:3128 validation fail
+2017-06-11 19:14:23,228 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 121.232.146.253:9000 validation fail
+2017-06-11 19:14:23,249 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 61.167.45.92:8998 validation fail
+2017-06-11 19:14:23,288 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 123.55.185.219:808 validation fail
+2017-06-11 19:14:23,336 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 211.79.206.250:80 validation fail
+2017-06-11 19:14:23,360 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 114.239.145.228:808 validation fail
+2017-06-11 19:14:23,391 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 43.226.162.23:80 validation fail
+2017-06-11 19:14:23,414 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 211.22.161.48:80 validation fail
+2017-06-11 19:14:23,438 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 103.226.202.50:53281 validation fail
+2017-06-11 19:14:23,504 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 120.132.71.212:80 validation fail
+2017-06-11 19:14:23,518 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.58.235.96:808 validation fail
+2017-06-11 19:14:23,568 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 61.54.121.46:8080 validation fail
+2017-06-11 19:14:23,571 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 121.226.160.87:808 validation fail
+2017-06-11 19:14:23,661 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 218.64.93.242:808 validation fail
+2017-06-11 19:14:23,661 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:23 2017 validProxy_a complete
+2017-06-11 19:14:23,668 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 179.108.39.193:8080 validation fail
+2017-06-11 19:14:23,669 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:23 2017 validProxy_a complete
+2017-06-11 19:14:23,774 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 61.143.228.162:3128 validation fail
+2017-06-11 19:14:23,774 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:23 2017 validProxy_a complete
+2017-06-11 19:14:23,830 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 103.35.171.169:8080 validation fail
+2017-06-11 19:14:23,830 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:23 2017 validProxy_a complete
+2017-06-11 19:14:23,910 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 120.76.79.24:80 validation fail
+2017-06-11 19:14:23,910 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:23 2017 validProxy_a complete
+2017-06-11 19:14:23,949 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.192.96.148:808 validation fail
+2017-06-11 19:14:23,949 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:23 2017 validProxy_a complete
+2017-06-11 19:14:23,949 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 121.8.98.201:8080 validation fail
+2017-06-11 19:14:23,950 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:23 2017 validProxy_a complete
+2017-06-11 19:14:23,970 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.220.145.76:808 validation fail
+2017-06-11 19:14:23,970 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:23 2017 validProxy_a complete
+2017-06-11 19:14:24,032 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 185.35.64.240:1189 validation fail
+2017-06-11 19:14:24,032 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:24 2017 validProxy_a complete
+2017-06-11 19:14:24,046 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 178.54.47.124:53281 validation fail
+2017-06-11 19:14:24,047 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:24 2017 validProxy_a complete
+2017-06-11 19:14:24,326 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.93.186.178:808 validation fail
+2017-06-11 19:14:24,326 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:24 2017 validProxy_a complete
+2017-06-11 19:14:24,436 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 119.57.105.241:8080 validation fail
+2017-06-11 19:14:24,437 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:24 2017 validProxy_a complete
+2017-06-11 19:14:24,505 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 175.155.143.33:808 validation fail
+2017-06-11 19:14:24,505 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:24 2017 validProxy_a complete
+2017-06-11 19:14:24,597 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 123.55.84.45:808 validation fail
+2017-06-11 19:14:24,597 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:24 2017 validProxy_a complete
+2017-06-11 19:14:24,701 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 119.4.13.85:808 validation fail
+2017-06-11 19:14:24,701 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:24 2017 validProxy_a complete
+2017-06-11 19:14:24,721 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 186.121.252.131:8080 validation fail
+2017-06-11 19:14:24,722 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:24 2017 validProxy_a complete
+2017-06-11 19:14:24,775 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 119.5.0.75:808 validation fail
+2017-06-11 19:14:24,775 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:24 2017 validProxy_a complete
+2017-06-11 19:14:24,775 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 60.167.20.199:808 validation fail
+2017-06-11 19:14:24,776 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:24 2017 validProxy_a complete
+2017-06-11 19:14:24,836 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 138.117.143.226:8080 validation fail
+2017-06-11 19:14:24,837 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:24 2017 validProxy_a complete
+2017-06-11 19:14:24,913 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 180.118.241.239:808 validation fail
+2017-06-11 19:14:24,913 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:24 2017 validProxy_a complete
+2017-06-11 19:14:24,978 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 120.132.25.252:8080 validation fail
+2017-06-11 19:14:24,978 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:24 2017 validProxy_a complete
+2017-06-11 19:14:24,984 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 218.161.47.231:3128 validation fail
+2017-06-11 19:14:24,984 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:24 2017 validProxy_a complete
+2017-06-11 19:14:25,061 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 121.232.145.47:9000 validation fail
+2017-06-11 19:14:25,061 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:25 2017 validProxy_a complete
+2017-06-11 19:14:25,146 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 41.202.221.122:8080 validation fail
+2017-06-11 19:14:25,146 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:25 2017 validProxy_a complete
+2017-06-11 19:14:25,163 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 200.108.35.60:8087 validation fail
+2017-06-11 19:14:25,163 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:25 2017 validProxy_a complete
+2017-06-11 19:14:25,268 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 116.53.165.25:8998 validation fail
+2017-06-11 19:14:25,269 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:25 2017 validProxy_a complete
+2017-06-11 19:14:25,427 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.200.9.194:80 validation fail
+2017-06-11 19:14:25,427 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:25 2017 validProxy_a complete
+2017-06-11 19:14:25,647 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 210.242.250.205:80 validation fail
+2017-06-11 19:14:25,647 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:25 2017 validProxy_a complete
+2017-06-11 19:14:25,747 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 175.180.200.46:8080 validation fail
+2017-06-11 19:14:25,748 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:25 2017 validProxy_a complete
+2017-06-11 19:14:25,880 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 182.92.207.196:80 validation fail
+2017-06-11 19:14:25,880 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:25 2017 validProxy_a complete
+2017-06-11 19:14:25,918 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 119.29.126.115:80 validation fail
+2017-06-11 19:14:25,919 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:25 2017 validProxy_a complete
+2017-06-11 19:14:25,956 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 185.35.64.209:1189 validation fail
+2017-06-11 19:14:25,957 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:25 2017 validProxy_a complete
+2017-06-11 19:14:25,982 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 210.61.141.73:80 validation fail
+2017-06-11 19:14:25,982 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:25 2017 validProxy_a complete
+2017-06-11 19:14:26,082 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 89.38.149.210:1189 validation fail
+2017-06-11 19:14:26,082 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:26 2017 validProxy_a complete
+2017-06-11 19:14:26,112 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 119.4.133.172:808 validation fail
+2017-06-11 19:14:26,112 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:26 2017 validProxy_a complete
+2017-06-11 19:14:26,365 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.58.234.57:808 validation fail
+2017-06-11 19:14:26,365 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:26 2017 validProxy_a complete
+2017-06-11 19:14:26,377 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 210.209.89.77:3128 validation fail
+2017-06-11 19:14:26,377 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:26 2017 validProxy_a complete
+2017-06-11 19:14:26,527 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 223.153.139.178:53281 validation fail
+2017-06-11 19:14:26,527 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:26 2017 validProxy_a complete
+2017-06-11 19:14:26,580 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.213.201.112:808 validation fail
+2017-06-11 19:14:26,580 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:26 2017 validProxy_a complete
+2017-06-11 19:14:26,630 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 119.7.74.184:808 validation fail
+2017-06-11 19:14:26,630 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:26 2017 validProxy_a complete
+2017-06-11 19:14:26,722 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 94.177.235.197:1189 validation fail
+2017-06-11 19:14:26,722 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:26 2017 validProxy_a complete
+2017-06-11 19:14:26,745 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.220.150.2:808 validation fail
+2017-06-11 19:14:26,746 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:26 2017 validProxy_a complete
+2017-06-11 19:14:26,758 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 213.192.19.245:3128 validation fail
+2017-06-11 19:14:26,758 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:26 2017 validProxy_a complete
+2017-06-11 19:14:26,766 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 36.99.206.219:808 validation fail
+2017-06-11 19:14:26,767 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:26 2017 validProxy_a complete
+2017-06-11 19:14:26,878 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 187.86.158.145:9999 validation fail
+2017-06-11 19:14:26,878 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:26 2017 validProxy_a complete
+2017-06-11 19:14:26,960 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 123.55.187.194:808 validation fail
+2017-06-11 19:14:26,961 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:26 2017 validProxy_a complete
+2017-06-11 19:14:26,973 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 123.13.204.109:9999 validation fail
+2017-06-11 19:14:26,973 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:26 2017 validProxy_a complete
+2017-06-11 19:14:27,071 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 180.241.58.203:8080 validation fail
+2017-06-11 19:14:27,072 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:27 2017 validProxy_a complete
+2017-06-11 19:14:27,091 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 124.72.216.121:808 validation fail
+2017-06-11 19:14:27,092 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:27 2017 validProxy_a complete
+2017-06-11 19:14:27,128 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 219.150.189.212:9999 validation fail
+2017-06-11 19:14:27,128 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:27 2017 validProxy_a complete
+2017-06-11 19:14:27,250 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 117.83.179.226:8998 validation fail
+2017-06-11 19:14:27,250 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:27 2017 validProxy_a complete
+2017-06-11 19:14:27,288 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 91.224.31.147:53281 validation fail
+2017-06-11 19:14:27,289 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:27 2017 validProxy_a complete
+2017-06-11 19:14:27,337 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 175.155.243.22:808 validation fail
+2017-06-11 19:14:27,337 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:27 2017 validProxy_a complete
+2017-06-11 19:14:27,369 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 114.99.22.229:808 validation fail
+2017-06-11 19:14:27,370 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:27 2017 validProxy_a complete
+2017-06-11 19:14:27,408 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 14.104.10.177:8998 validation fail
+2017-06-11 19:14:27,408 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:27 2017 validProxy_a complete
+2017-06-11 19:14:27,504 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 91.194.246.121:8085 validation fail
+2017-06-11 19:14:27,504 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:27 2017 validProxy_a complete
+2017-06-11 19:14:27,590 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 77.232.185.56:8080 validation fail
+2017-06-11 19:14:27,591 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:27 2017 validProxy_a complete
+2017-06-11 19:14:27,662 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 60.167.20.202:808 validation fail
+2017-06-11 19:14:27,662 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:27 2017 validProxy_a complete
+2017-06-11 19:14:27,737 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 122.6.75.103:808 validation fail
+2017-06-11 19:14:27,737 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:27 2017 validProxy_a complete
+2017-06-11 19:14:27,852 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 212.52.198.81:8080 validation fail
+2017-06-11 19:14:27,852 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:27 2017 validProxy_a complete
+2017-06-11 19:14:27,862 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 114.239.144.119:808 validation fail
+2017-06-11 19:14:27,862 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:27 2017 validProxy_a complete
+2017-06-11 19:14:27,943 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.69.38.41:808 validation fail
+2017-06-11 19:14:27,943 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:27 2017 validProxy_a complete
+2017-06-11 19:14:27,947 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 119.5.37.127:808 validation fail
+2017-06-11 19:14:27,947 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:27 2017 validProxy_a complete
+2017-06-11 19:14:27,976 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 218.6.145.11:9797 validation fail
+2017-06-11 19:14:27,976 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:27 2017 validProxy_a complete
+2017-06-11 19:14:27,996 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 175.155.241.56:808 validation fail
+2017-06-11 19:14:27,996 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:27 2017 validProxy_a complete
+2017-06-11 19:14:28,046 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 222.95.23.108:808 validation fail
+2017-06-11 19:14:28,047 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:28 2017 validProxy_a complete
+2017-06-11 19:14:28,051 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 180.110.19.243:808 validation fail
+2017-06-11 19:14:28,051 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:28 2017 validProxy_a complete
+2017-06-11 19:14:28,102 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 222.94.144.185:808 validation fail
+2017-06-11 19:14:28,102 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:28 2017 validProxy_a complete
+2017-06-11 19:14:28,185 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 114.238.116.5:808 validation fail
+2017-06-11 19:14:28,241 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 221.192.134.92:8081 validation fail
+2017-06-11 19:14:28,258 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 124.94.4.68:80 validation fail
+2017-06-11 19:14:28,486 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 177.21.6.121:666 validation fail
+2017-06-11 19:14:28,576 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 36.234.45.212:3128 validation fail
+2017-06-11 19:14:29,004 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 177.114.0.177:8080 validation fail
+2017-06-11 19:14:29,038 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 82.67.68.28:80 validation fail
+2017-06-11 19:14:29,088 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.69.212.6:808 validation fail
+2017-06-11 19:14:29,144 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 122.53.156.57:3128 validation fail
+2017-06-11 19:14:29,162 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 119.6.57.46:8081 validation fail
+2017-06-11 19:14:29,191 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 180.118.243.204:808 validation fail
+2017-06-11 19:14:29,258 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 177.158.176.154:8080 validation fail
+2017-06-11 19:14:31,044 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 116.17.163.106:808 validation fail
+2017-06-11 19:14:31,044 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:31 2017 validProxy_a complete
+2017-06-11 19:14:31,132 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 111.119.203.18:53281 validation fail
+2017-06-11 19:14:31,132 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:31 2017 validProxy_a complete
+2017-06-11 19:14:32,552 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 109.121.161.44:53281 validation fail
+2017-06-11 19:14:32,867 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 120.132.26.30:8080 validation fail
+2017-06-11 19:14:33,250 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 103.239.52.41:8080 validation fail
+2017-06-11 19:14:33,267 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 103.67.197.83:8080 validation fail
+2017-06-11 19:14:33,318 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 128.71.39.30:8081 validation fail
+2017-06-11 19:14:34,012 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 120.29.153.238:3128 validation fail
+2017-06-11 19:14:34,151 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 113.121.181.200:808 validation fail
+2017-06-11 19:14:34,200 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 202.59.163.129:8080 validation fail
+2017-06-11 19:14:34,265 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 212.52.198.81:8080 validation fail
+2017-06-11 19:14:34,447 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 219.150.242.54:9999 validation fail
+2017-06-11 19:14:34,758 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 5.105.57.181:8080 validation fail
+2017-06-11 19:14:34,921 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 180.210.201.50:3128 validation fail
+2017-06-11 19:14:35,023 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 190.145.74.10:53281 validation fail
+2017-06-11 19:14:35,419 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.231.128.81:8080 validation fail
+2017-06-11 19:14:35,767 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 41.58.182.121:80 validation fail
+2017-06-11 19:14:36,361 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 171.12.164.198:808 validation fail
+2017-06-11 19:14:36,393 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 119.90.248.245:9999 validation fail
+2017-06-11 19:14:36,980 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 176.214.80.153:8080 validation fail
+2017-06-11 19:14:38,317 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 89.38.149.252:1189 validation fail
+2017-06-11 19:14:38,471 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 91.185.189.179:3128 validation fail
+2017-06-11 19:14:39,209 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 117.43.1.208:808 validation fail
+2017-06-11 19:14:39,633 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 172.104.129.32:80 validation fail
+2017-06-11 19:14:39,653 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 117.143.109.147:80 validation fail
+2017-06-11 19:14:39,698 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 41.191.232.137:8080 validation fail
+2017-06-11 19:14:39,765 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 60.167.22.8:808 validation fail
+2017-06-11 19:14:40,832 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 101.94.135.88:8123 validation fail
+2017-06-11 19:14:41,065 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 178.62.54.143:8118 validation fail
+2017-06-11 19:14:41,374 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 120.203.73.50:8998 validation fail
+2017-06-11 19:14:41,413 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 114.99.22.30:808 validation fail
+2017-06-11 19:14:41,500 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 198.23.74.170:81 validation fail
+2017-06-11 19:14:41,941 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 192.129.142.148:9001 validation fail
+2017-06-11 19:14:41,942 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:41 2017 validProxy_a complete
+2017-06-11 19:14:41,999 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.220.151.205:808 validation fail
+2017-06-11 19:14:42,000 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:42 2017 validProxy_a complete
+2017-06-11 19:14:42,900 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 210.82.36.52:80 validation fail
+2017-06-11 19:14:42,900 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:42 2017 validProxy_a complete
+2017-06-11 19:14:42,907 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 175.155.141.147:808 validation fail
+2017-06-11 19:14:42,907 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:42 2017 validProxy_a complete
+2017-06-11 19:14:43,094 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 223.245.181.142:808 validation fail
+2017-06-11 19:14:43,095 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:43 2017 validProxy_a complete
+2017-06-11 19:14:43,490 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 175.155.191.79:808 validation fail
+2017-06-11 19:14:44,709 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 115.213.241.93:808 validation fail
+2017-06-11 19:14:44,779 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 122.112.251.66:8080 validation fail
+2017-06-11 19:14:45,152 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 200.168.250.195:81 validation fail
+2017-06-11 19:14:45,152 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:45 2017 validProxy_a complete
+2017-06-11 19:14:45,797 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 200.5.83.150:3128 validation fail
+2017-06-11 19:14:45,798 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:45 2017 validProxy_a complete
+2017-06-11 19:14:45,996 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 211.151.144.162:80 validation fail
+2017-06-11 19:14:45,997 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:45 2017 validProxy_a complete
+2017-06-11 19:14:46,420 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 222.94.146.45:808 validation fail
+2017-06-11 19:14:46,421 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:46 2017 validProxy_a complete
+2017-06-11 19:14:46,508 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 180.118.241.192:808 validation fail
+2017-06-11 19:14:46,508 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:46 2017 validProxy_a complete
+2017-06-11 19:14:46,718 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 94.177.238.36:1189 validation fail
+2017-06-11 19:14:46,718 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:46 2017 validProxy_a complete
+2017-06-11 19:14:48,167 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 136.169.214.15:8080 validation fail
+2017-06-11 19:14:48,167 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:48 2017 validProxy_a complete
+2017-06-11 19:14:48,497 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 203.142.72.114:808 validation fail
+2017-06-11 19:14:48,497 ProxyRefreshSchedule.py[line:61] INFO Sun Jun 11 19:14:48 2017 validProxy_a complete
+2017-06-11 19:14:49,788 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 5.9.19.56:8080 validation fail
+2017-06-11 19:14:50,147 ProxyRefreshSchedule.py[line:58] DEBUG validProxy_a: 210.82.36.52:80 validation fail

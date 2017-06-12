@@ -19,6 +19,7 @@ import time
 import logging
 from threading import Thread
 from apscheduler.schedulers.blocking import BlockingScheduler
+from settings import  LOG_LEVEL
 
 sys.path.append('../')
 
@@ -50,12 +51,12 @@ class ProxyRefreshSchedule(ProxyManager):
         self.log.info('%s start validProxy_a' % time.ctime())
         exist_proxy = self.db.getAll()
         while raw_proxy:
-            if validUsefulProxy(raw_proxy) and (raw_proxy not in exist_proxy):
+            if validUsefulProxy(raw_proxy) == True and (raw_proxy not in exist_proxy):
                 self.db.changeTable(self.useful_proxy_queue)
                 self.db.put(raw_proxy)
                 self.log.info('validProxy_a: %s validation pass' % raw_proxy)
-            else:
-                self.log.debug('validProxy_a: %s validation fail' % raw_proxy)
+#            else:
+#                self.log.debug('validProxy_a: %s validation fail' % raw_proxy)
             self.db.changeTable(self.raw_proxy_queue)
             raw_proxy = self.db.pop()
         self.log.info('%s validProxy_a complete' % time.ctime())
@@ -88,6 +89,7 @@ def main(process_num=200):
 
 def run():
     # main()
+
     sched = BlockingScheduler()
     sched.add_job(main,
                   'interval',
